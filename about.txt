@@ -1,0 +1,2 @@
+This may not work on web apps but will work on simple websites.If any exception causes then set the address of file accordingly to your
+ system.
